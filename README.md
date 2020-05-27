@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/azinfydevopsLab/contosair/_apis/build/status/nirbhaysingh281.ContosoAir?branchName=master)](https://dev.azure.com/azinfydevopsLab/contosair/_build/latest?definitionId=3&branchName=master)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
